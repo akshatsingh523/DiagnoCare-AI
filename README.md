@@ -1,3 +1,5 @@
+---
+
 # DiagnoCare AI
 
 **DiagnoCare AI** is an innovative healthcare solution that leverages advanced machine learning algorithms and natural language processing (NLP) to provide accurate disease predictions and personalized precautionary measures. This project aims to empower users with early diagnosis and actionable health recommendations through AI-driven insights.
@@ -36,3 +38,4 @@
 
 DiagnoCare AI is a powerful, AI-driven tool designed to improve early disease detection and provide personalized health recommendations. By leveraging machine learning and NLP, the platform offers a proactive approach to healthcare, enabling better health outcomes for users.
 
+---
